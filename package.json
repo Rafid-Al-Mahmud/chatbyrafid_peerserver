@@ -6,8 +6,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "
-    "start": "peerjs --port process.env.PORT""
+    "start": "peerjs --port process.env.PORT"
   },
   "author": "",
   "license": "ISC",
