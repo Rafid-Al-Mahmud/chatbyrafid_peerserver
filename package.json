@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "npm i -g peer && peerjspeerjs --port process.env.PORT"
+    "start": "npm i -g peer && peerjs --port 3000"
   },
   "author": "",
   "license": "ISC",
