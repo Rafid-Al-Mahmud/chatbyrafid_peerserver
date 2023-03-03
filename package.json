@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "peerjs": "^1.4.7"
+  },
+  "name": "chatbyrafid_peerserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
